@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Shivam bandral, currently pursuing B.tech at UPES🏫. I am from India, currently living in Dehradun.
 
 
-You can find me on on [![LinkedIn][1.2]][1].
+You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
