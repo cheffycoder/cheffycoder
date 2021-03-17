@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ### Hello, folks! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px">
-I am Shivam bandral, currently pursuing B.tech at UPES🏫. I am from India,currently living in Dehradun.
+I am Shivam bandral, currently pursuing B.tech at UPES🏫. I am from India, currently living in Dehradun.
 
