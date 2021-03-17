@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Social banner](https://github.com/cheffycoder/cheffycoder/blob/main/assets/Banner.png)
+
 ### Hello, folks! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px">
 I am Shivam bandral, currently pursuing B.tech at UPES🏫. I am from India, living in Dehradun.
 
