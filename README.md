@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
 ## Hello World!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="270" height = "220">
+=======
+![Social banner](https://github.com/cheffycoder/cheffycoder/blob/main/assets/PortfolioBanner.png)
+>>>>>>> 623750f3688c15db4509134f112782623488dfd5
 
 ---
 - I am **Shivam bandral** <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px"> 
