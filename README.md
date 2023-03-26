@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ---
 - I am **Shivam bandral** <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35px"> 
-- Pre-final year CSE student at <a href="https://www.upes.ac.in/"> UPES</a>🏫.
-- I’m currently learning Data Structures, Web Development. 🌱
+- Completed my Bachelor of Technology in CSE from <a href="https://www.upes.ac.in/"> UPES</a>🏫.
+- Currenly pursuing my dream of fighting with blood sucking bugs as a Junior Software Engineer. 
+- (Pest controlling at Loginext solutions - Frontend) 🌱
 <br> 
 
 ---
